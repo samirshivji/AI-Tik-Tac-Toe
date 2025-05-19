@@ -8,6 +8,6 @@ This project is a Python implementation of the classic **Tic Tac Toe** game with
 
 tic_tac_toe_ai/
 ├── tictactoe.py # Core game logic and AI (Minimax)
-├── play.py # Pygame-based GUI
+├── runner.py # Pygame-based GUI
 ├── OpenSans-Regular.ttf # Font file used in the GUI
 └── README.md # Project description
